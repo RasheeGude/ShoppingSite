@@ -48,6 +48,7 @@ h3 {
 /*---- TRENDING ----*/
 #trend .row .col-sm-4 {
     display: flex;
+    padding-top: 1.5rem;
 }
 
 #trend .card {
@@ -74,6 +75,7 @@ h3 {
 #store .row .col-sm-4 {
     display: flex;
     justify-content: space-evenly;
+    padding-top: 1.5rem;
 }
 #store .card {
     box-shadow: 0 6px 10px rgba(0,0,0,0.08), 0 0 6px rgba(0,0,0,0.05);
